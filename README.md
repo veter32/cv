@@ -60,7 +60,7 @@ Phone: +380505308537, +421918165634
 
 ----------     
 
-### EXPIRIENCE
+### EXPERIENCE
 
 #### [TeamDev](https://www.teamdev.com) | Senior Software Developer | 2011 - 2026
 
@@ -143,7 +143,7 @@ Phone: +380505308537, +421918165634
 
 **Main Focus**:
 
--  **Full-Cycle Development**: Worked on a wide variety of outsourced C++ projects for international clients, from desktop utilities to system services.
+-   **Full-Cycle Development**: Worked on a wide variety of outsourced C++ projects for international clients, from desktop utilities to system services.
 -   **Legacy Code & Refactoring**: Gained extensive experience in analyzing and improving existing codebases, fixing critical bugs, and implementing new features under tight deadlines.
 -   **Rapid Adaptability**: Developed the ability to quickly switch between different project requirements, coding styles, and third-party libraries.
     
@@ -151,16 +151,16 @@ Phone: +380505308537, +421918165634
 **Used Technologies**:
 
 -   **Languages: C++, C**.
--   **Libraries & Tools: STL, WinAPI, MFC, and various third-party SDKs**.    
--   **Environment: MSVC, GDB**.
+-   **Libraries & Tools**: STL, WinAPI, MFC, and various third-party SDKs.    
+-   **Environment**: MSVC, GDB.
     
 ----------
 
-#### Delfi Software | Software Engineer | [Даты, например: 2002 - 2003]
+#### Delfi Software | Software Engineer | 2002 - 2003
 
 **Main Focus**:
 
--  **Language Interoperability**: Integrated the R interpreter into a core C++ application. I developed the bridge layer to handle data exchange between C++ structures and R environments.
+-   **Language Interoperability**: Integrated the R interpreter into a core C++ application. I developed the bridge layer to handle data exchange between C++ structures and R environments.
 -   **Complex Data Integration**: Managed the challenges of embedding an external runtime, including memory management and synchronizing execution flows between the two languages.
 -   **Analytical UI**: Developed the GUI (Qt/MFC) for the integrated environment, allowing users to interact with R-based analytical tools directly through the desktop interface.
     
@@ -180,7 +180,7 @@ Phone: +380505308537, +421918165634
 -   **Industrial Automation (SCADA/ICS)**: Developed core software for oil and gas transportation control systems. This was mission-critical software in which reliability and real-time performance were top priorities.
 -   **Low-Level Development**: Programmed microcontrollers and handled direct hardware communication. Focused on data acquisition and processing from industrial sensors.
 -   **Real-Time Systems**: Worked with QNX to ensure deterministic execution of control logic. Managed system-level tasks and inter-process communication in a high-reliability environment.
--  **Server-Side & Tools**: Maintained backend services on Solaris and developed specialized engineering tools for system monitoring and configuration.
+-   **Server-Side & Tools**: Maintained backend services on Solaris and developed specialized engineering tools for system monitoring and configuration.
     
 **Used Technologies**:
 
