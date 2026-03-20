@@ -1,10 +1,10 @@
 
 # Vitalii Yeremenko
 
-Principal Systems Engineer | C++ & Cross-Platform Expert
+Principal Systems Engineer | C++ & Cross-Platform Expert  
 E-Mail: [evsoft@gmail.com](mailto:evsoft@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/veter/](https://www.linkedin.com/in/veter/)
-Phone: +380505308537, +421918165634
+LinkedIn: [https://www.linkedin.com/in/veter/](https://www.linkedin.com/in/veter/)  
+Phone: +380505308537, +421918165634  
 
 ----------
 
