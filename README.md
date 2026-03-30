@@ -64,14 +64,20 @@ Phone: +380505308537, +421918165634
 
 #### [TeamDev](https://www.teamdev.com) | Senior Software Developer | 2011 - 2026
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Chromium Internals**: Deep dive into millions of lines of C++ code. I study the engine architecture to fix complex issues in rendering and process synchronization.
--   **High-Performance Bridges**: Building and maintaining stable JNI and C++/CLI layers. I focus on memory management and thread safety between C++ and Java/.NET to prevent crashes and leaks.
--   **Cross-Platform Core**: Maintaining a single C++ codebase for Windows, Linux, and macOS. I was working on system-level abstractions (WinAPI/POSIX), so the team can focus on other features.
--   **Build & CI Automation**: Handling complex build pipelines (CMake, GN). I integrated automated testing into CI to catch regressions early and keep the master branch stable.
--   **Mentorship**: Doing deep code reviews and helping the team avoid architectural mistakes.
-    
+- Identifying stable entry points in Chromium source code for custom logic injection ([JxBrowser](https://teamdev.com/jxbrowser/) and [DotNetBrowser](https://teamdev.com/dotnetbrowser/)).
+- Implementing cross-platform IPC using shared memory (Win32 and POSIX).
+- Implementing Widevine DRM support within legal and technical constraints.
+- Implementing IME support for off-screen rendering to handle native input in Java-based UI.
+- Deep-level technical support: diagnosing and fixing complex engine-level bugs and crashes (including core dump analysis).
+- Managing complex build configurations to integrate proprietary logic into the Chromium engine (GN/Ninja).
+- Implementing Java wrappers and APIs for native Chromium features and subsystems.
+- Developing low-level Java-to-Native bridges ([JNIWrapper](https://teamdev.com/jniwrapper/)) to enable direct access to native OS libraries.
+- Implementing COM-interoperability layers ([ComfyJ](https://teamdev.com/comfyj/)) for seamless integration of Windows components.
+- Building cross-platform screen capture and video recording engines ([JxCapture](https://teamdev.com/jxcapture/)) using native system APIs.
+- Full-cycle development of the [JxMaps library](https://teamdev.com/jxmaps/), integrating Google Maps JavaScript API with the Chromium engine to provide a seamless Java-based mapping solution.
+- Contributing to various other internal modules and subsystems, focused on engine stability and native integration.
 
 **Used Technologies**:
 
@@ -79,7 +85,6 @@ Phone: +380505308537, +421918165634
 -   **Frameworks & Libs**: Chromium Source Code, Google Test, FFMpeg.
 -   **Platform APIs**: WinAPI, POSIX, Cocoa, JNI, C++/CLI.
 -   **Build & CI/CD**: CMake, GN, Ninja, MSBuild, GitHub Actions.
--   **Diagnostics**: Valgrind, Performance Profilers.
 -   **IDEs**: CLion, Microsoft Visual Studio, IntelliJ IDEA, XCode
     
 
@@ -87,13 +92,13 @@ Phone: +380505308537, +421918165634
 
 #### [SpellChecker.net](https://webspellchecker.com/) | Team Lead / Senior Software Engineer | 2010 - 2011
 
-**Main Focus**:
+**Key Responsibilities**:
 
--  **Server-Side Development**: Architected and maintained high-performance backend engines for text processing. Focused entirely on server logic, data flow, and stability under heavy load.
--  **Web Integration Interfaces**: Developed and optimized CGI modules to provide low-latency communication between web servers and core C++ logic.
--  **Team Leadership & Process**: Managed a team of developers, shifting the workflow towards Scrum. I was responsible for sprint planning, code quality standards, and ensuring the team hit technical milestones.
--   **Infrastructure Stability**: Handled complex server-side issues, memory management, and performance bottlenecks in a high-concurrency environment.
-    
+- Leading a cross-functional team of 6 developers, overseeing task distribution and technical delivery.
+- Participating in Agile/Scrum processes, including sprint planning, estimation, and task decomposition.
+- Developing and maintaining a CGI-based server infrastructure for spellchecking services.
+- Architecting and implementing the migration from CGI to FastCGI to optimize process lifecycle and performance. 
+- Implementing and maintaining application server logic for dynamic dictionary management (e.g., Hunspell integration).
 
 **Used Technologies**:
 
@@ -106,11 +111,12 @@ Phone: +380505308537, +421918165634
 
 #### Panraven | Software Engineer | 2009 - 2010
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Desktop UI Development**: Developed and maintained a cross-platform desktop application using Qt. Focused on creating a responsive and intuitive user interface for photo-related services.
--  **Image Processing Engine**: Implemented and optimized algorithms for image manipulation, cropping, and filtering. Worked on ensuring high performance when handling large sets of digital assets.
--   **Architecture Integration**: Bridged the gap between high-level UI components and low-level image processing logic to ensure smooth user interaction.
+- Developing a native cross-platform image processing application using the Qt framework.
+- Architecting and implementing cross-platform abstractions for UI and system-level operations.
+- Implementing efficient image rendering and manipulation logic using native APIs and Qt graphics modules.
+- Integrating and managing third-party libraries and SDKs for advanced image processing and system functionality.
 
 **Used Technologies**:
 
@@ -122,12 +128,14 @@ Phone: +380505308537, +421918165634
 
 #### [Program-Ace](https://program-ace.com/) | Project Manager / Senior Software Engineer | 2004 - 2009
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Video Conferencing & Real-time Media**: Developed a high-performance engine for video communication. I focused on low-latency data transmission and the core logic for content sharing.
--   **Low-Level Screen Capture**: Built native modules for high-speed screen grabbing and content streaming, ensuring minimal CPU impact through deep integration with OS-specific graphics APIs.
--   **Advanced GUI Development**: Led and participated in building complex desktop interfaces for media applications. I was responsible for making the UI responsive while handling heavy real-time data (video/audio) in the background.
--   **Project Management & R&D**: Led several development teams through the full software lifecycle. Managed client expectations, estimated complex R&D tasks, and ensured technical solutions met business goals.
+- Project Management (approx. 1.5 years): overseeing full project lifecycles, resource allocation, and stakeholder communication.
+- Leading the full development lifecycle of a Mind Map diagramming tool as a Team Lead.
+- Architecting and implementing complex GUI systems for visual data representation and diagram manipulation.
+- Designing and developing the Instant Messenger user interface and custom GUI components.
+- Implementing the client-side logic for seamless interaction between the UI and the network layer.
+- Designing and developing the user interface for video conferencing software.
 
 **Used Technologies**:
 
@@ -141,12 +149,11 @@ Phone: +380505308537, +421918165634
 
 #### [NIX Solutions](https://www.nixsolutions.com/) | Software Engineer | 2003 - 2004
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Full-Cycle Development**: Worked on a wide variety of outsourced C++ projects for international clients, from desktop utilities to system services.
--   **Legacy Code & Refactoring**: Gained extensive experience in analyzing and improving existing codebases, fixing critical bugs, and implementing new features under tight deadlines.
--   **Rapid Adaptability**: Developed the ability to quickly switch between different project requirements, coding styles, and third-party libraries.
-    
+- Developing an NDIS Intermediate Driver for low-level network traffic filtering and management.
+- Designing and implementing Browser Helper Objects (BHO) to extend Internet Explorer functionality and integrate custom web-browser interactions.
+- Developing numerous small-scale specialized projects, focusing on Windows API and shell integration.   
 
 **Used Technologies**:
 
@@ -158,12 +165,10 @@ Phone: +380505308537, +421918165634
 
 #### Delfi Software | Software Engineer | 2002 - 2003
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Language Interoperability**: Integrated the R interpreter into a core C++ application. I developed the bridge layer to handle data exchange between C++ structures and R environments.
--   **Complex Data Integration**: Managed the challenges of embedding an external runtime, including memory management and synchronizing execution flows between the two languages.
--   **Analytical UI**: Developed the GUI (Qt/MFC) for the integrated environment, allowing users to interact with R-based analytical tools directly through the desktop interface.
-    
+- Architecting a multi-instance isolation layer for the R Statistical Engine, enabling concurrent, independent execution of multiple engine instances within a single environment.
+- Researching and developing the integration bridge between native C++ components and the R runtime via custom DLL wrappers.  
 
 **Used Technologies**:
 
@@ -175,13 +180,14 @@ Phone: +380505308537, +421918165634
 
 #### INEC | Software Engineer | 1999 – 2002]
 
-**Main Focus**:
+**Key Responsibilities**:
 
--   **Industrial Automation (SCADA/ICS)**: Developed core software for oil and gas transportation control systems. This was mission-critical software in which reliability and real-time performance were top priorities.
--   **Low-Level Development**: Programmed microcontrollers and handled direct hardware communication. Focused on data acquisition and processing from industrial sensors.
--   **Real-Time Systems**: Worked with QNX to ensure deterministic execution of control logic. Managed system-level tasks and inter-process communication in a high-reliability environment.
--   **Server-Side & Tools**: Maintained backend services on Solaris and developed specialized engineering tools for system monitoring and configuration.
-    
+- Developing automation software for oil and gas transportation systems using C++ and Delphi.
+- Full-cycle development of a Front-End Processor (FEP) on QNX RTOS, ensuring high reliability and real-time data processing.
+- Designing and implementing user interfaces (HMI/SCADA) for industrial process monitoring and control.
+- Developing proxy layers and data communication services to bridge hardware controllers with high-level monitoring systems.
+- Implementing data visualization and reporting tools for large-scale industrial telemetry.
+
 **Used Technologies**:
 
 -   **Languages**: C, C++, Delphi (Pascal)
