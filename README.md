@@ -68,12 +68,12 @@ Phone: +380505308537, +421918165634
 
 -   **Chromium Internals**: Deep dive into millions of lines of C++ code. I study the engine architecture to fix complex issues in rendering and process synchronization.
 -   **High-Performance Bridges**: Building and maintaining stable JNI and C++/CLI layers. I focus on memory management and thread safety between C++ and Java/.NET to prevent crashes and leaks.
--   **Cross-Platform Core**: Maintaining a single C++ codebase for Windows, Linux, and macOS. I was working on system-level abstractions (WinAPI/POSIX), so the team can focus on other features.
+-   **Cross-Platform Core**: Maintaining a single C++ codebase for Windows, Linux, and macOS. I was working on system-level abstractions (WinAPI/POSIX), so the team could focus on other features.
 -   **Build & CI Automation**: Handling complex build pipelines (CMake, GN). I integrated automated testing into CI to catch regressions early and keep the master branch stable.
 -   **Mentorship**: Doing deep code reviews and helping the team avoid architectural mistakes.
     
 
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages**: C++ (11/14/17/20), C, Java, Python (scripting/automation), ObjectiveC.    
 -   **Frameworks & Libs**: Chromium Source Code, Google Test, FFMpeg.
@@ -95,7 +95,7 @@ Phone: +380505308537, +421918165634
 -   **Infrastructure Stability**: Handled complex server-side issues, memory management, and performance bottlenecks in a high-concurrency environment.
     
 
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages**: C++, C.
 -   **Server Tech**: HTTP, CGI, FastCGI, Apache, IIS.    
@@ -112,7 +112,7 @@ Phone: +380505308537, +421918165634
 -  **Image Processing Engine**: Implemented and optimized algorithms for image manipulation, cropping, and filtering. Worked on ensuring high performance when handling large sets of digital assets.
 -   **Architecture Integration**: Bridged the gap between high-level UI components and low-level image processing logic to ensure smooth user interaction.
 
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages**: C++.    
 -   **Frameworks**:  Qt (Widgets).
@@ -129,7 +129,7 @@ Phone: +380505308537, +421918165634
 -   **Advanced GUI Development**: Led and participated in building complex desktop interfaces for media applications. I was responsible for making the UI responsive while handling heavy real-time data (video/audio) in the background.
 -   **Project Management & R&D**: Led several development teams through the full software lifecycle. Managed client expectations, estimated complex R&D tasks, and ensured technical solutions met business goals.
 
-**Used Technologies**:
+**Tech Stack**:
 
 -  **Languages**: C++, C.
 -  **GUI Frameworks**: Qt (Widgets), MFC, Custom UI components.    
@@ -148,7 +148,7 @@ Phone: +380505308537, +421918165634
 -   **Rapid Adaptability**: Developed the ability to quickly switch between different project requirements, coding styles, and third-party libraries.
     
 
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages: C++, C**.
 -   **Libraries & Tools**: STL, WinAPI, MFC, and various third-party SDKs.    
@@ -165,7 +165,7 @@ Phone: +380505308537, +421918165634
 -   **Analytical UI**: Developed the GUI (Qt/MFC) for the integrated environment, allowing users to interact with R-based analytical tools directly through the desktop interface.
     
 
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages**: C++, R (Embedded).
 -   **Frameworks**: MFC, COM.
@@ -182,7 +182,7 @@ Phone: +380505308537, +421918165634
 -   **Real-Time Systems**: Worked with QNX to ensure deterministic execution of control logic. Managed system-level tasks and inter-process communication in a high-reliability environment.
 -   **Server-Side & Tools**: Maintained backend services on Solaris and developed specialized engineering tools for system monitoring and configuration.
     
-**Used Technologies**:
+**Tech Stack**:
 
 -   **Languages**: C, C++, Delphi (Pascal)
 -   **Operating Systems**: QNX (RTOS), Solaris (Unix), Windows.
